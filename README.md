@@ -1,6 +1,4 @@
-# Assignment 01
-
-**TODO List**
+# Assignment 01 TODO List
 
 **Cecilia Giorcelli**
 
