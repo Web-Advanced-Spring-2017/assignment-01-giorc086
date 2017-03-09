@@ -1,0 +1,37 @@
+
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+/*  .remove {
+  	background-color: #ffcc80;
+  }*/
+
+  li{
+  	margin-left: 5em;
+  }
+
+/*  p{
+  	position: fixed;
+  	bottom: 0;
+  	margin-left: 4em;
+  }*/
+  
+  button{
+  	margin: 5px;
+  }
+
+h2{
+  color: white;
+}
+
+p{
+  font-size: 12px;
+  margin-left: 5em;
+}
